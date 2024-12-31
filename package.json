@@ -1,0 +1,23 @@
+{
+  "name": "github-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/cli.js",
+  "scripts": {
+    "start": "node src/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Einja/github-user-activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Einja/github-user-activity/issues"
+  },
+  "homepage": "https://github.com/Einja/github-user-activity#readme",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
